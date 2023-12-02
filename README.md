@@ -6,12 +6,12 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lavalley&style=flat-square&color=blue" alt=""></p>
 
 
-<h3 align="center"> Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center"> Product Manager</h3>
 
 - 👨‍💻 Leading awesome software engineers and making great products
 - 🔪 Still coding because I like to make things and keep my skills sharp
-- 🦕 In my free time I use 250 million-year-old dinosaur juice to have fun racing my cars, motorcycle
-- 🛥️ Sail the high seas
+- 🦕 In my free time I use 250 million-year-old dinosaur juice to have fun racing my cars and motorcycle
+- 🛥️ Occasionally sail the high seas
 - 🎧 Still love [music](https://soundcloud.com/djben305)
 - 🍽 Cooking/resaurant/wine/spirits fanatic :D
 
