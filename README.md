@@ -9,9 +9,9 @@
 <h3 align="center"> Product Manager</h3>
 
 - 👨‍💻 Leading awesome software engineers and making great products
-- 🔪 Still coding because I like to make things and keep my skills sharp
+- 🔪 Full-stack coding to keep my skills sharp
 - 🦕 In my free time I use 250 million-year-old dinosaur juice to have fun racing my cars and motorcycle
-- 🛥️ Occasionally sail the high seas. Still love 🎵 Cooking/food/wine/spirits fanatic 🍽 
+- 🛥️ Occasionally sail the high seas, born in the US Virgin Islands. cooking/food/wine/spirits fanatic 🍽 
 
 
 ---
