@@ -11,7 +11,7 @@
 - 👨‍💻 Leading awesome software engineers and making great products
 - 🔪 Full-stack coding to keep my skills sharp
 - 🦕 In my free time I use 250 million-year-old dinosaur juice to have fun racing my cars and motorcycle
-- 🛥️ Occasionally sail the high seas, born in the US Virgin Islands. cooking/food/wine/spirits fanatic 🍽 
+- 🛥️ Cooking/food/wine/spirits fanatic 🍽 
 
 
 ---
